@@ -7,4 +7,6 @@ interface NavigateFragment {
         fragment: Fragment, name: String, addTobackStack: Boolean,
         clearToBackStack: Boolean, showAnimation: Boolean
     )
+
+    
 }
