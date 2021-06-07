@@ -8,5 +8,5 @@ interface NavigateFragment {
         clearToBackStack: Boolean, showAnimation: Boolean
     )
 
-    
+
 }
